@@ -8,4 +8,8 @@ public class Test {
         System.out.println("我是初始值");
     }
 
+    public void m1(){
+        System.out.println("时间10.46");
+    }
+
 }
