@@ -15,4 +15,8 @@ public class Test {
     public void develop2(){
         System.out.println("时间10:45");
     }
+
+    public void develop3(){
+        System.out.println("时间10:48");
+    }
 }
