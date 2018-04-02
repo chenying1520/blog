@@ -12,4 +12,7 @@ public class Test {
         System.out.println("时间10:44");
     }
 
+    public void develop2(){
+        System.out.println("时间10:45");
+    }
 }
