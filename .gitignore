@@ -23,6 +23,7 @@ target
 # idea
 .idea
 *.iml
+vcs.xml
 
 # node
 

@@ -18,6 +18,8 @@
 
     <modules>
         <module>spring-boot-demo</module>
+        <module>spring-config-demo</module>
+        <module>eureka-server-demo</module>
     </modules>
 
     <properties>
